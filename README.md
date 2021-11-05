@@ -2,6 +2,15 @@
 This software was made by me as a part of a school fest which tests the competitors on the basis of a static questionnaire and produces the result as mentioned in instructions.
 Developed entirely in Visual Studio, this was one of my initial projects (which explains the static questionnaire XD). 
 
+Following are the screenshots:
+
+![image](https://user-images.githubusercontent.com/73427395/140559019-0a4e6647-89ce-4a4b-84c8-a38d9fbba2e5.png)
+![image](https://user-images.githubusercontent.com/73427395/140559172-37412eff-721e-4472-b01e-076f0cb7e465.png)
+![image](https://user-images.githubusercontent.com/73427395/140559311-b42a757c-a368-4560-a6c3-d57a2b038d9c.png)
+![image](https://user-images.githubusercontent.com/73427395/140559339-7b258bb2-6aab-4541-ad4c-6fe4856e5fda.png)
+![image](https://user-images.githubusercontent.com/73427395/140559425-9279e4ee-cde4-4aa6-8737-2b07fced00ed.png)
+![image](https://user-images.githubusercontent.com/73427395/140559515-5a50ae4a-d6de-4a46-8f1a-88915095c3d7.png)
+
 The instructions are as follows:
 
 GENERAL RULES AND REGULATIONS
@@ -30,9 +39,6 @@ GENERAL RULES REGARDING USAGE OF THE SOFTWARE
           Navigator instead.
 
 
-Following are the screenshots:
-
-![image](https://user-images.githubusercontent.com/73427395/140559019-0a4e6647-89ce-4a4b-84c8-a38d9fbba2e5.png)
 
 
 
