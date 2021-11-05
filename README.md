@@ -10,6 +10,11 @@ Following are the screenshots:
 ![image](https://user-images.githubusercontent.com/73427395/140559339-7b258bb2-6aab-4541-ad4c-6fe4856e5fda.png)
 ![image](https://user-images.githubusercontent.com/73427395/140559425-9279e4ee-cde4-4aa6-8737-2b07fced00ed.png)
 ![image](https://user-images.githubusercontent.com/73427395/140559515-5a50ae4a-d6de-4a46-8f1a-88915095c3d7.png)
+![image](https://user-images.githubusercontent.com/73427395/140561356-c92f3675-9edd-4e01-ac63-aea97048677b.png)
+![image](https://user-images.githubusercontent.com/73427395/140561466-0d606115-8b4e-4547-b816-da436caaad85.png)
+(Never thought I would score -2 in a quiz made by me lol)
+
+The exe file can be found in the bin file. You may run the exe file spearately.
 
 The instructions are as follows:
 
