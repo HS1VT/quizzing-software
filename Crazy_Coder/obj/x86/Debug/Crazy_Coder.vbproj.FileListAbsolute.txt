@@ -1,0 +1,68 @@
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\bin\Debug\Crazy_Coder.exe
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\bin\Debug\Crazy_Coder.pdb
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\bin\Debug\Crazy_Coder.xml
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Form1.resources
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Instructions.resources
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Resources.resources
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\obj\x86\Debug\Crazy_Coder.vbproj.GenerateResource.Cache
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\obj\x86\Debug\Crazy_Coder.exe
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\obj\x86\Debug\Crazy_Coder.xml
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\obj\x86\Debug\Crazy_Coder.pdb
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\obj\x86\Debug\Crazy_Coder.About.resources
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q1.resources
+C:\Users\Vishesh Thakur\AppData\Local\Temporary Projects\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q2.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.exe
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.xml
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.pdb
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\bin\Debug\Crazy_Coder.exe
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\bin\Debug\Crazy_Coder.pdb
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\bin\Debug\Crazy_Coder.xml
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.About.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Form1.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Instructions.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Resources.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q1.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q2.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.vbproj.GenerateResource.Cache
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q3.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Time.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q10.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q11.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q12.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q13.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q14.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q4.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q5.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q6.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q7.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q8.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q9.resources
+C:\Users\Vishesh Thakur\Desktop\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Score.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.exe
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.xml
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.pdb
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\bin\Debug\Crazy_Coder.exe
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\bin\Debug\Crazy_Coder.pdb
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\bin\Debug\Crazy_Coder.xml
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.About.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Form1.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Instructions.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Resources.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q1.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q10.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q11.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q12.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q13.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q14.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q2.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q3.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q4.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q5.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q6.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q7.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q8.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Q9.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Score.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Time.resources
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.vbproj.GenerateResource.Cache
+D:\Panorama\Crazy Coder\Crazy_Coder\Crazy_Coder\obj\x86\Debug\Crazy_Coder.Questions.resources
