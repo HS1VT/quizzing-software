@@ -2,6 +2,8 @@
 This software was made by me as a part of a school fest which tests the competitors on the basis of a static questionnaire and produces the result as mentioned in instructions.
 Developed entirely in Visual Studio, this was one of my initial projects (which explains the static questionnaire XD). 
 
+Requirements: .NET framework V4.0+
+
 Following are the screenshots:
 
 ![image](https://user-images.githubusercontent.com/73427395/140559019-0a4e6647-89ce-4a4b-84c8-a38d9fbba2e5.png)
